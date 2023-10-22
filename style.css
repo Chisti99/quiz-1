@@ -1,0 +1,13 @@
+body {
+  font-family: "Gabarito", sans-serif;
+}
+.sec-1 {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.sec-2 {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-evenly;
+}
